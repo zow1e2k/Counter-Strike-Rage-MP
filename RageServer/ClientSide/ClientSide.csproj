@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>RageServer</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\..\..\RageMP\dotnet\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="rage-sharp">
+      <HintPath>..\..\..\RageMP\dotnet\rage-sharp.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="del &quot;E:\RageServer\client_packages\cs_packages\*.*&quot; /Q&#xD;&#xA;for /R %25CD%25 %25%25i in (*.cs) do (&#xD;&#xA;xcopy %25%25i &quot;E:\RageServer\client_packages\cs_packages\&quot; /Q /Y /EXCLUDE:exclude.txt&#xD;&#xA;)&#xD;&#xA;cd /D &quot;E:\RageServer\client_packages\cs_packages&quot;&#xD;&#xA;attrib -H -S /S /D" />
+  </Target>
+
+</Project>

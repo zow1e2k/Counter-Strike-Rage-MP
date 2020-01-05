@@ -1,0 +1,6034 @@
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 30.07.2019 0:08:05
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 30.07.2019 0:28:37
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 30.07.2019 0:58:09
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+[01:02:59][0]tYOm1e2k: yaww
+[01:03:04][0]tYOm1e2k: sdasda
+[01:03:21][0]tYOm1e2k: Hello, world
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 30.07.2019 1:14:44
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+[01:19:33][0]tYOm1e2k: asdasd
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 30.07.2019 1:35:39
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+-> Error starting RageServer, resource(s) not found: H:\RageServer\bridge\resources\RageServer\Server.dll
+WARNING: Some assemblies are not fully loaded from memory at runtime, you may have to copy your assembly into 'runtime\' folder.
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 30.07.2019 1:36:54
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 1 server event(s)
+RageServer: loaded 1 server events(s)
+RageServer: loading remote events.. found 1 remote event(s)
+RageServer: loaded 1 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Player name: tYOm1e2k
+Test message: sdasdasdasd
+[01:53:04][0]tYOm1e2k: sdasdasdasd
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 30.07.2019 2:46:09
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 1 server event(s)
+RageServer: loaded 1 server events(s)
+RageServer: loading remote events.. found 1 remote event(s)
+RageServer: loaded 1 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Player name: tYOm1e2k
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 30.07.2019 3:13:09
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 1 server event(s)
+RageServer: loaded 1 server events(s)
+RageServer: loading remote events.. found 1 remote event(s)
+RageServer: loaded 1 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Player name: tYOm1e2k
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 30.07.2019 3:32:34
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 1 server event(s)
+RageServer: loaded 1 server events(s)
+RageServer: loading remote events.. found 1 remote event(s)
+RageServer: loaded 1 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Player name: tYOm1e2k
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 30.07.2019 4:02:24
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 1 server event(s)
+RageServer: loaded 1 server events(s)
+RageServer: loading remote events.. found 1 remote event(s)
+RageServer: loaded 1 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 30.07.2019 4:07:25
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 1 server event(s)
+RageServer: loaded 1 server events(s)
+RageServer: loading remote events.. found 1 remote event(s)
+RageServer: loaded 1 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 30.07.2019 4:09:12
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 1 server event(s)
+RageServer: loaded 1 server events(s)
+RageServer: loading remote events.. found 1 remote event(s)
+RageServer: loaded 1 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Player name: tYOm1e2k
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 30.07.2019 15:52:56
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 1 server event(s)
+RageServer: loaded 1 server events(s)
+RageServer: loading remote events.. found 1 remote event(s)
+RageServer: loaded 1 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Player name: tYOm1e2k
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 30.07.2019 16:14:55
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 1 server event(s)
+RageServer: loaded 1 server events(s)
+RageServer: loading remote events.. found 1 remote event(s)
+RageServer: loaded 1 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 30.07.2019 16:15:15
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 1 server event(s)
+RageServer: loaded 1 server events(s)
+RageServer: loading remote events.. found 1 remote event(s)
+RageServer: loaded 1 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Player name: tYOm1e2k
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 30.07.2019 16:40:36
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 1 server event(s)
+RageServer: loaded 1 server events(s)
+RageServer: loading remote events.. found 1 remote event(s)
+RageServer: loaded 1 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 30.07.2019 16:45:50
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 1 server event(s)
+RageServer: loaded 1 server events(s)
+RageServer: loading remote events.. found 1 remote event(s)
+RageServer: loaded 1 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Player name: tYOm1e2k
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 30.07.2019 16:59:32
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 1 server event(s)
+RageServer: loaded 1 server events(s)
+RageServer: loading remote events.. found 1 remote event(s)
+RageServer: loaded 1 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Player name: tYOm1e2k
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 30.07.2019 17:13:05
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 1 server event(s)
+RageServer: loaded 1 server events(s)
+RageServer: loading remote events.. found 1 remote event(s)
+RageServer: loaded 1 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Player name: tYOm1e2k
+Test message: Artyom from player: tYOm1e2k
+[05:14:29][0]tYOm1e2k: Artyom
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 30.07.2019 18:09:24
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 1 server event(s)
+RageServer: loaded 1 server events(s)
+RageServer: loading commands.. found 1 command(s)
+RageServer: loaded 1 commands(s)
+RageServer: loading remote events.. found 1 remote event(s)
+RageServer: loaded 1 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Player name: tYOm1e2k
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 30.07.2019 18:16:58
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 1 server event(s)
+RageServer: loaded 1 server events(s)
+RageServer: loading commands.. found 1 command(s)
+RageServer: loaded 1 commands(s)
+RageServer: loading remote events.. found 1 remote event(s)
+RageServer: loaded 1 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Player name: tYOm1e2k
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 30.07.2019 19:34:54
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 1 server event(s)
+RageServer: loaded 1 server events(s)
+RageServer: loading commands.. found 1 command(s)
+RageServer: loaded 1 commands(s)
+RageServer: loading remote events.. found 1 remote event(s)
+RageServer: loaded 1 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Player name: tYOm1e2k
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 30.07.2019 19:40:27
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 1 server event(s)
+RageServer: loaded 1 server events(s)
+RageServer: loading commands.. found 1 command(s)
+RageServer: loaded 1 commands(s)
+RageServer: loading remote events.. found 1 remote event(s)
+RageServer: loaded 1 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Player name: tYOm1e2k
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 30.07.2019 21:39:07
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 1 server event(s)
+RageServer: loaded 1 server events(s)
+RageServer: loading commands.. found 1 command(s)
+RageServer: loaded 1 commands(s)
+RageServer: loading remote events.. found 1 remote event(s)
+RageServer: loaded 1 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Player name: tYOm1e2k
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 30.07.2019 21:56:43
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 1 server event(s)
+RageServer: loaded 1 server events(s)
+RageServer: loading commands.. found 2 command(s)
+RageServer: loaded 2 commands(s)
+RageServer: loading remote events.. found 1 remote event(s)
+RageServer: loaded 1 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Player name: tYOm1e2k
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 30.07.2019 22:08:43
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 1 server event(s)
+RageServer: loaded 1 server events(s)
+RageServer: loading commands.. found 2 command(s)
+RageServer: loaded 2 commands(s)
+RageServer: loading remote events.. found 1 remote event(s)
+RageServer: loaded 1 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Player name: tYOm1e2k
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 30.07.2019 22:13:54
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 1 server event(s)
+RageServer: loaded 1 server events(s)
+RageServer: loading commands.. found 2 command(s)
+RageServer: loaded 2 commands(s)
+RageServer: loading remote events.. found 1 remote event(s)
+RageServer: loaded 1 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Player name: tYOm1e2k
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 30.07.2019 22:27:03
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 1 server event(s)
+RageServer: loaded 1 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 1 remote event(s)
+RageServer: loaded 1 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Player name: tYOm1e2k
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 30.07.2019 23:16:14
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 1 server event(s)
+RageServer: loaded 1 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 1 remote event(s)
+RageServer: loaded 1 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Player name: tYOm1e2k
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 31.07.2019 0:10:42
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 1 server event(s)
+RageServer: loaded 1 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 2 remote event(s)
+RageServer: loaded 2 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Player name: tYOm1e2k
+Test message: yom from player: tYOm1e2k
+[12:15:12][0]tYOm1e2k: yom
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 31.07.2019 0:52:08
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 1 server event(s)
+RageServer: loaded 1 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 3 remote event(s)
+RageServer: loaded 3 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Player name: tYOm1e2k
+[12:56:22][0]tYOm1e2k: yom
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 31.07.2019 0:58:25
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 1 server event(s)
+RageServer: loaded 1 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 3 remote event(s)
+RageServer: loaded 3 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Player name: tYOm1e2k
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 31.07.2019 0:59:32
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 1 server event(s)
+RageServer: loaded 1 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 3 remote event(s)
+RageServer: loaded 3 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Player name: tYOm1e2k
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 31.07.2019 1:21:12
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 1 server event(s)
+RageServer: loaded 1 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 3 remote event(s)
+RageServer: loaded 3 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Player name: tYOm1e2k
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 31.07.2019 1:54:03
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 1 server event(s)
+RageServer: loaded 1 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 3 remote event(s)
+RageServer: loaded 3 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Player name: tYOm1e2k
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 31.07.2019 2:01:59
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 1 server event(s)
+RageServer: loaded 1 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 3 remote event(s)
+RageServer: loaded 3 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Player name: tYOm1e2k
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 31.07.2019 2:12:51
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 1 server event(s)
+RageServer: loaded 1 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 3 remote event(s)
+RageServer: loaded 3 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Player name: tYOm1e2k
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 31.07.2019 3:47:29
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 2 server event(s)
+RageServer: loaded 2 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 4 remote event(s)
+RageServer: loaded 4 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Player name: tYOm1e2k
+[03:52:06][0]tYOm1e2k: sdasda
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 31.07.2019 4:43:32
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 4 remote event(s)
+RageServer: loaded 4 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 31.07.2019 4:53:43
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 4 server event(s)
+RageServer: loaded 4 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 4 remote event(s)
+RageServer: loaded 4 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 31.07.2019 5:04:06
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 4 server event(s)
+RageServer: loaded 4 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 4 remote event(s)
+RageServer: loaded 4 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 31.07.2019 5:12:23
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 4 server event(s)
+RageServer: loaded 4 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 4 remote event(s)
+RageServer: loaded 4 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 31.07.2019 5:36:18
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 4 server event(s)
+RageServer: loaded 4 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 4 remote event(s)
+RageServer: loaded 4 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 31.07.2019 19:56:10
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 4 server event(s)
+RageServer: loaded 4 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 5 remote event(s)
+RageServer: loaded 5 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 31.07.2019 20:47:16
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 5 remote event(s)
+RageServer: loaded 5 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 31.07.2019 20:48:01
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 5 remote event(s)
+RageServer: loaded 5 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 31.07.2019 20:48:10
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 5 remote event(s)
+RageServer: loaded 5 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 31.07.2019 20:48:45
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 5 remote event(s)
+RageServer: loaded 5 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 31.07.2019 20:49:12
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 5 remote event(s)
+RageServer: loaded 5 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 31.07.2019 20:49:32
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 5 remote event(s)
+RageServer: loaded 5 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 31.07.2019 20:49:50
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 5 remote event(s)
+RageServer: loaded 5 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 31.07.2019 20:51:48
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 5 remote event(s)
+RageServer: loaded 5 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 31.07.2019 20:52:12
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 4 server event(s)
+RageServer: loaded 4 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 5 remote event(s)
+RageServer: loaded 5 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 31.07.2019 20:52:30
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 4 server event(s)
+RageServer: loaded 4 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 5 remote event(s)
+RageServer: loaded 5 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 31.07.2019 20:53:08
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 5 remote event(s)
+RageServer: loaded 5 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 31.07.2019 20:53:24
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 5 remote event(s)
+RageServer: loaded 5 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 31.07.2019 20:53:50
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 5 remote event(s)
+RageServer: loaded 5 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 31.07.2019 20:55:17
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 5 remote event(s)
+RageServer: loaded 5 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 31.07.2019 20:55:41
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 5 remote event(s)
+RageServer: loaded 5 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 31.07.2019 20:57:02
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 5 remote event(s)
+RageServer: loaded 5 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Tick
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 31.07.2019 21:02:53
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 5 remote event(s)
+RageServer: loaded 5 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+01.01.0001 0:00:00
+01.01.0001 0:00:00
+01.01.0001 0:00:00
+01.01.0001 0:00:00
+01.01.0001 0:00:00
+01.01.0001 0:00:00
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 31.07.2019 21:03:40
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 5 remote event(s)
+RageServer: loaded 5 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+31.07.2019 21:03:41
+31.07.2019 21:03:41
+31.07.2019 21:03:41
+31.07.2019 21:03:41
+31.07.2019 21:03:41
+31.07.2019 21:03:41
+31.07.2019 21:03:41
+31.07.2019 21:03:41
+31.07.2019 21:03:41
+31.07.2019 21:03:41
+31.07.2019 21:03:41
+31.07.2019 21:03:41
+31.07.2019 21:03:41
+31.07.2019 21:03:41
+31.07.2019 21:03:41
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 31.07.2019 21:04:23
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 5 remote event(s)
+RageServer: loaded 5 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+31.07.2019 21:04:25
+31.07.2019 21:04:26
+31.07.2019 21:04:27
+31.07.2019 21:04:28
+31.07.2019 21:04:29
+31.07.2019 21:04:30
+31.07.2019 21:04:31
+31.07.2019 21:04:31
+31.07.2019 21:04:32
+31.07.2019 21:04:33
+31.07.2019 21:04:34
+31.07.2019 21:04:35
+31.07.2019 21:04:36
+31.07.2019 21:04:37
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 31.07.2019 21:05:36
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 5 remote event(s)
+RageServer: loaded 5 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+31.07.2019 21:05:39
+31.07.2019 21:05:40
+31.07.2019 21:05:41
+31.07.2019 21:05:42
+31.07.2019 21:05:43
+31.07.2019 21:05:44
+31.07.2019 21:05:45
+31.07.2019 21:05:47
+31.07.2019 21:05:48
+31.07.2019 21:05:49
+31.07.2019 21:05:50
+31.07.2019 21:05:51
+31.07.2019 21:05:52
+31.07.2019 21:05:54
+31.07.2019 21:05:55
+31.07.2019 21:05:56
+31.07.2019 21:05:57
+31.07.2019 21:05:58
+31.07.2019 21:05:59
+31.07.2019 21:06:00
+31.07.2019 21:06:02
+31.07.2019 21:06:03
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 31.07.2019 21:06:20
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 5 remote event(s)
+RageServer: loaded 5 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+31.07.2019 21:06:22
+31.07.2019 21:06:23
+31.07.2019 21:06:24
+31.07.2019 21:06:25
+31.07.2019 21:06:26
+31.07.2019 21:06:27
+31.07.2019 21:06:27
+31.07.2019 21:06:28
+31.07.2019 21:06:29
+31.07.2019 21:06:30
+31.07.2019 21:06:31
+31.07.2019 21:06:32
+31.07.2019 21:06:33
+31.07.2019 21:06:33
+31.07.2019 21:06:34
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 31.07.2019 21:06:48
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 5 remote event(s)
+RageServer: loaded 5 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+31.07.2019 21:06:50
+31.07.2019 21:06:51
+31.07.2019 21:06:52
+31.07.2019 21:06:53
+31.07.2019 21:06:54
+31.07.2019 21:06:55
+31.07.2019 21:06:56
+31.07.2019 21:06:57
+31.07.2019 21:06:58
+31.07.2019 21:06:59
+31.07.2019 21:07:00
+31.07.2019 21:07:01
+31.07.2019 21:07:02
+31.07.2019 21:07:03
+31.07.2019 21:07:04
+31.07.2019 21:07:05
+31.07.2019 21:07:06
+31.07.2019 21:07:07
+31.07.2019 21:07:08
+31.07.2019 21:07:09
+31.07.2019 21:07:10
+31.07.2019 21:07:11
+31.07.2019 21:07:12
+31.07.2019 21:07:13
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 31.07.2019 21:17:50
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 5 remote event(s)
+RageServer: loaded 5 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+31.07.2019 21:17:53
+31.07.2019 21:17:55
+31.07.2019 21:17:56
+31.07.2019 21:17:58
+31.07.2019 21:18:00
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 31.07.2019 21:18:19
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 5 remote event(s)
+RageServer: loaded 5 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+31.07.2019 21:18:22
+31.07.2019 21:18:24
+31.07.2019 21:18:25
+31.07.2019 21:18:27
+31.07.2019 21:18:28
+31.07.2019 21:18:29
+31.07.2019 21:18:31
+31.07.2019 21:18:32
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 31.07.2019 21:18:44
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 5 remote event(s)
+RageServer: loaded 5 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+31.07.2019 21:18:47
+31.07.2019 21:18:48
+31.07.2019 21:18:50
+31.07.2019 21:18:51
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 31.07.2019 21:19:11
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 5 remote event(s)
+RageServer: loaded 5 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+31.07.2019 21:19:14
+31.07.2019 21:19:15
+31.07.2019 21:19:16
+31.07.2019 21:19:17
+31.07.2019 21:19:18
+31.07.2019 21:19:19
+31.07.2019 21:19:20
+31.07.2019 21:19:21
+31.07.2019 21:19:22
+31.07.2019 21:19:23
+31.07.2019 21:19:24
+31.07.2019 21:19:25
+31.07.2019 21:19:26
+31.07.2019 21:19:27
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 31.07.2019 21:34:45
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 5 remote event(s)
+RageServer: loaded 5 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+31.07.2019 21:34:47
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 31.07.2019 21:34:59
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 5 remote event(s)
+RageServer: loaded 5 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+1
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 31.07.2019 22:02:57
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 5 remote event(s)
+RageServer: loaded 5 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+59
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+0
+1
+2
+3
+4
+7
+8
+9
+10
+11
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+32
+36
+38
+39
+40
+41
+43
+44
+45
+46
+48
+49
+50
+52
+53
+54
+55
+56
+57
+59
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+11
+12
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+0
+1
+2
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+56
+57
+58
+59
+0
+1
+2
+3
+5
+6
+7
+9
+11
+13
+14
+15
+17
+20
+22
+24
+25
+26
+28
+36
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+52
+53
+54
+55
+56
+57
+58
+59
+0
+1
+2
+3
+4
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+0
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+42
+43
+44
+45
+46
+47
+48
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+0
+1
+3
+4
+5
+6
+7
+8
+9
+10
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+51
+52
+53
+54
+55
+56
+57
+58
+59
+0
+1
+2
+3
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+56
+57
+58
+59
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 31.07.2019 22:13:33
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 5 remote event(s)
+RageServer: loaded 5 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+54
+55
+56
+57
+58
+59
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+39
+40
+41
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+0
+1
+2
+3
+9
+13
+14
+15
+17
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+31
+32
+33
+34
+35
+37
+38
+39
+40
+41
+42
+43
+44
+47
+49
+50
+52
+53
+56
+57
+59
+0
+2
+3
+5
+7
+8
+9
+12
+14
+15
+16
+17
+18
+19
+20
+22
+23
+25
+27
+28
+29
+30
+31
+33
+34
+35
+36
+37
+39
+40
+41
+43
+44
+45
+47
+48
+49
+50
+52
+53
+55
+56
+58
+59
+0
+2
+3
+4
+5
+6
+8
+9
+11
+12
+13
+15
+16
+18
+19
+21
+22
+24
+26
+27
+29
+31
+34
+36
+39
+41
+43
+45
+47
+50
+57
+58
+59
+0
+1
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+56
+57
+58
+59
+0
+1
+2
+3
+4
+5
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+0
+1
+2
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+11
+12
+13
+15
+16
+17
+19
+20
+22
+23
+24
+25
+27
+28
+29
+31
+32
+33
+34
+35
+36
+37
+38
+40
+41
+42
+43
+44
+46
+47
+48
+49
+50
+51
+52
+54
+55
+56
+57
+58
+59
+0
+1
+2
+3
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+33
+34
+35
+37
+38
+40
+41
+42
+43
+44
+45
+46
+47
+49
+51
+52
+55
+57
+58
+0
+1
+2
+3
+4
+5
+7
+8
+9
+10
+11
+12
+14
+15
+16
+17
+19
+20
+21
+22
+23
+25
+26
+27
+28
+30
+31
+34
+38
+47
+48
+52
+54
+56
+58
+0
+2
+4
+8
+9
+10
+11
+13
+14
+15
+16
+17
+18
+20
+22
+24
+26
+28
+30
+31
+34
+36
+37
+40
+42
+43
+46
+47
+49
+50
+52
+55
+57
+59
+1
+7
+8
+9
+10
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+54
+55
+56
+57
+58
+59
+0
+1
+2
+3
+4
+5
+6
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+0
+2
+3
+4
+5
+6
+7
+8
+9
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+25
+26
+27
+28
+29
+30
+31
+33
+35
+39
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+52
+53
+54
+55
+56
+57
+58
+59
+0
+1
+2
+3
+5
+7
+9
+11
+12
+13
+14
+16
+17
+18
+19
+20
+22
+23
+24
+26
+27
+31
+39
+40
+42
+43
+44
+45
+46
+47
+48
+50
+51
+53
+55
+58
+59
+1
+2
+4
+5
+8
+9
+10
+12
+14
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+52
+53
+54
+55
+56
+57
+58
+59
+0
+1
+2
+3
+4
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+19
+20
+21
+22
+23
+24
+25
+26
+27
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+42
+43
+44
+45
+46
+47
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+1
+2
+3
+4
+5
+6
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 31.07.2019 23:43:20
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 5 remote event(s)
+RageServer: loaded 5 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+53
+54
+55
+56
+57
+58
+59
+0
+1
+2
+3
+4
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+26
+27
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+0
+2
+3
+4
+5
+6
+7
+8
+10
+11
+13
+15
+17
+18
+19
+20
+21
+22
+23
+25
+26
+27
+28
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+41
+42
+43
+44
+45
+46
+47
+48
+49
+51
+53
+55
+56
+58
+0
+1
+3
+4
+7
+9
+11
+12
+13
+15
+16
+18
+19
+20
+21
+22
+23
+24
+25
+27
+28
+30
+31
+33
+34
+35
+36
+37
+38
+39
+40
+41
+43
+44
+45
+46
+47
+49
+50
+51
+53
+54
+55
+57
+58
+59
+0
+2
+4
+5
+6
+7
+9
+10
+11
+12
+14
+15
+16
+17
+19
+21
+23
+24
+26
+28
+30
+31
+32
+34
+36
+38
+40
+41
+43
+45
+48
+50
+52
+54
+55
+57
+59
+2
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+54
+55
+56
+57
+58
+59
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+0
+1
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+51
+52
+53
+54
+55
+56
+57
+58
+59
+0
+1
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+0
+1
+2
+3
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+42
+43
+44
+45
+47
+48
+49
+51
+52
+53
+54
+55
+56
+57
+58
+59
+0
+1
+2
+3
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+0
+1
+2
+3
+4
+5
+7
+8
+9
+10
+11
+12
+13
+14
+15
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+0
+1
+2
+3
+4
+5
+6
+7
+8
+10
+11
+12
+14
+15
+16
+17
+18
+19
+21
+23
+24
+26
+27
+29
+30
+31
+34
+35
+37
+40
+41
+43
+44
+46
+48
+49
+50
+51
+53
+54
+56
+57
+58
+0
+2
+3
+4
+5
+6
+7
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+0
+2
+3
+4
+5
+6
+8
+9
+10
+12
+13
+15
+17
+18
+19
+20
+21
+22
+23
+24
+27
+28
+29
+30
+32
+34
+35
+38
+39
+41
+44
+47
+48
+49
+50
+51
+53
+54
+55
+56
+57
+58
+59
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+16
+17
+18
+19
+21
+22
+23
+24
+26
+27
+28
+29
+30
+31
+33
+34
+35
+36
+37
+38
+39
+40
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+58
+59
+0
+1
+3
+5
+7
+8
+9
+10
+12
+13
+14
+15
+16
+17
+19
+20
+21
+22
+23
+25
+26
+27
+28
+30
+31
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+59
+0
+1
+2
+4
+5
+6
+8
+9
+10
+12
+13
+16
+18
+22
+31
+33
+34
+35
+37
+38
+40
+42
+43
+44
+46
+47
+48
+50
+51
+52
+53
+54
+56
+57
+59
+0
+2
+4
+5
+6
+7
+9
+10
+11
+12
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+43
+44
+45
+46
+48
+50
+51
+52
+53
+55
+56
+57
+58
+59
+0
+1
+3
+5
+6
+8
+9
+10
+12
+13
+14
+15
+16
+17
+19
+20
+21
+22
+24
+26
+28
+30
+31
+32
+33
+34
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+52
+53
+54
+55
+56
+57
+58
+59
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+25
+26
+27
+28
+29
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+56
+57
+58
+59
+0
+1
+3
+4
+5
+6
+8
+10
+12
+13
+15
+17
+18
+19
+20
+21
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+48
+50
+51
+52
+53
+54
+55
+57
+58
+59
+0
+4
+6
+9
+11
+12
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.08.2019 0:23:41
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 6 remote event(s)
+RageServer: loaded 6 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+43
+44
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+44
+45
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+0
+1
+2
+3
+4
+5
+6
+8
+9
+10
+12
+15
+16
+17
+18
+19
+21
+22
+24
+25
+26
+27
+30
+31
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+46
+47
+49
+50
+51
+52
+53
+55
+56
+58
+59
+1
+3
+5
+7
+8
+10
+11
+13
+15
+16
+17
+19
+21
+22
+23
+24
+25
+27
+28
+29
+30
+31
+33
+34
+36
+37
+38
+39
+41
+42
+43
+44
+46
+47
+48
+49
+50
+52
+53
+54
+56
+57
+58
+59
+0
+2
+3
+4
+6
+7
+8
+9
+11
+12
+13
+14
+16
+17
+18
+20
+21
+23
+26
+27
+29
+31
+32
+34
+36
+38
+40
+43
+46
+52
+54
+56
+58
+1
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+0
+1
+2
+3
+4
+5
+6
+7
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.08.2019 1:04:34
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.08.2019 1:12:06
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.08.2019 1:25:38
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.08.2019 1:51:48
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.08.2019 1:57:31
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.08.2019 1:58:39
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.08.2019 1:58:45
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.08.2019 1:59:48
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.08.2019 2:05:11
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.08.2019 2:08:58
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.08.2019 2:10:54
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+startRound
+update
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.08.2019 2:14:24
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+startRound
+update
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.08.2019 2:16:58
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+startRound
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.08.2019 2:18:58
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+startRound
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.08.2019 2:21:49
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.08.2019 2:23:52
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.08.2019 2:26:29
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.08.2019 2:27:59
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.08.2019 2:30:02
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.08.2019 2:31:18
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.08.2019 2:32:41
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.08.2019 2:33:25
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.08.2019 2:33:41
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.08.2019 4:08:11
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.08.2019 4:14:51
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 3 command(s)
+RageServer: loaded 3 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.08.2019 20:04:05
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 4 command(s)
+RageServer: loaded 4 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.08.2019 20:17:16
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 4 command(s)
+RageServer: loaded 4 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.08.2019 20:19:21
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 4 command(s)
+RageServer: loaded 4 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.08.2019 20:20:20
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 4 command(s)
+RageServer: loaded 4 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.08.2019 22:21:30
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 4 command(s)
+RageServer: loaded 4 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.08.2019 22:31:42
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.08.2019 22:31:54
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 4 command(s)
+RageServer: loaded 4 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.08.2019 22:43:05
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 4 command(s)
+RageServer: loaded 4 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.08.2019 23:01:27
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 4 command(s)
+RageServer: loaded 4 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.08.2019 23:15:53
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 4 command(s)
+RageServer: loaded 4 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.08.2019 23:19:02
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 4 command(s)
+RageServer: loaded 4 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 02.08.2019 0:05:15
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 4 command(s)
+RageServer: loaded 4 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 02.08.2019 0:28:06
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 4 command(s)
+RageServer: loaded 4 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 02.08.2019 0:41:58
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 4 command(s)
+RageServer: loaded 4 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 02.08.2019 0:54:18
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 4 command(s)
+RageServer: loaded 4 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+WARNING: "SetPlayerToSpectatePlayer" function is not implemented yet.
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 02.08.2019 0:59:23
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 4 command(s)
+RageServer: loaded 4 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 02.08.2019 1:36:17
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 4 command(s)
+RageServer: loaded 4 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 02.08.2019 1:38:58
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 4 command(s)
+RageServer: loaded 4 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 02.08.2019 1:46:40
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 4 command(s)
+RageServer: loaded 4 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 02.08.2019 1:48:47
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 4 command(s)
+RageServer: loaded 4 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 02.08.2019 1:58:52
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 4 command(s)
+RageServer: loaded 4 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 02.08.2019 2:01:50
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 4 command(s)
+RageServer: loaded 4 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 02.08.2019 2:02:59
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 4 command(s)
+RageServer: loaded 4 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 02.08.2019 2:04:29
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 4 command(s)
+RageServer: loaded 4 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 02.08.2019 2:06:22
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 4 command(s)
+RageServer: loaded 4 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 02.08.2019 2:07:25
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 4 command(s)
+RageServer: loaded 4 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 02.08.2019 2:08:32
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 4 command(s)
+RageServer: loaded 4 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 02.08.2019 2:10:04
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 4 command(s)
+RageServer: loaded 4 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 02.08.2019 2:14:32
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 4 command(s)
+RageServer: loaded 4 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 02.08.2019 2:15:37
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 4 command(s)
+RageServer: loaded 4 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 02.08.2019 2:18:05
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 4 command(s)
+RageServer: loaded 4 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 02.08.2019 2:19:40
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 4 command(s)
+RageServer: loaded 4 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 04.08.2019 21:45:14
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 4 command(s)
+RageServer: loaded 4 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 04.08.2019 21:46:52
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 4 command(s)
+RageServer: loaded 4 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 04.08.2019 22:00:18
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 4 command(s)
+RageServer: loaded 4 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 04.08.2019 22:03:36
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 4 command(s)
+RageServer: loaded 4 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 06.08.2019 4:38:42
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 4 command(s)
+RageServer: loaded 4 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 06.08.2019 5:31:30
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 1 command(s)
+RageServer: loaded 1 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 06.08.2019 5:41:01
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 1 command(s)
+RageServer: loaded 1 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 06.08.2019 6:58:21
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 1 command(s)
+RageServer: loaded 1 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 06.08.2019 7:08:15
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 1 command(s)
+RageServer: loaded 1 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 06.08.2019 7:08:55
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 1 command(s)
+RageServer: loaded 1 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 06.08.2019 7:10:58
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 1 command(s)
+RageServer: loaded 1 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 06.08.2019 7:12:07
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 1 command(s)
+RageServer: loaded 1 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 06.08.2019 7:13:47
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 1 command(s)
+RageServer: loaded 1 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 06.08.2019 7:19:08
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 1 command(s)
+RageServer: loaded 1 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 06.08.2019 7:22:28
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 1 command(s)
+RageServer: loaded 1 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 06.08.2019 7:26:13
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 1 command(s)
+RageServer: loaded 1 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 06.08.2019 7:29:40
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 1 command(s)
+RageServer: loaded 1 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 06.08.2019 7:34:36
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 1 command(s)
+RageServer: loaded 1 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 06.08.2019 7:42:27
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 1 command(s)
+RageServer: loaded 1 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 06.08.2019 7:45:10
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 1 command(s)
+RageServer: loaded 1 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 11.08.2019 23:32:21
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 1 command(s)
+RageServer: loaded 1 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 12.08.2019 1:34:19
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 1 command(s)
+RageServer: loaded 1 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 24.08.2019 15:39:06
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 1 command(s)
+RageServer: loaded 1 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 24.08.2019 15:43:14
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 1 command(s)
+RageServer: loaded 1 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 24.08.2019 15:46:34
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 1 command(s)
+RageServer: loaded 1 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 24.08.2019 15:49:11
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 1 command(s)
+RageServer: loaded 1 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 24.08.2019 16:04:32
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 1 command(s)
+RageServer: loaded 1 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 06.09.2019 18:29:21
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 1 command(s)
+RageServer: loaded 1 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 13.09.2019 18:50:25
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 13.09.2019 18:51:19
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 1 command(s)
+RageServer: loaded 1 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 21.09.2019 14:48:07
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 1 command(s)
+RageServer: loaded 1 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 21.09.2019 14:57:36
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 1 command(s)
+RageServer: loaded 1 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 22.09.2019 12:37:55
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 1 command(s)
+RageServer: loaded 1 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 22.09.2019 13:08:42
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 1 command(s)
+RageServer: loaded 1 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 22.09.2019 13:10:21
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 1 command(s)
+RageServer: loaded 1 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 22.09.2019 13:13:24
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 1 command(s)
+RageServer: loaded 1 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 22.09.2019 13:13:40
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 1 command(s)
+RageServer: loaded 1 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 22.09.2019 13:19:10
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 1 command(s)
+RageServer: loaded 1 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 22.09.2019 13:38:41
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 1 command(s)
+RageServer: loaded 1 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 22.09.2019 13:59:14
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 1 command(s)
+RageServer: loaded 1 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 22.09.2019 14:13:23
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 1 command(s)
+RageServer: loaded 1 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 22.09.2019 14:13:42
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 1 command(s)
+RageServer: loaded 1 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 22.09.2019 14:17:34
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 1 command(s)
+RageServer: loaded 1 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 22.09.2019 14:23:16
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 1 command(s)
+RageServer: loaded 1 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 05.01.2020 19:31:32
+Unable to load acl.xml
+-> Missing vehicleData.json, some API functions may not be functional.
+Loading resources..
+-> Starting RageServer resource..
+RageServer: loading scripts.. found 1 script(s)
+RageServer: instantiating RageServer.ServerTest..
+RageServer: loading server events.. found 5 server event(s)
+RageServer: loaded 5 server events(s)
+RageServer: loading commands.. found 1 command(s)
+RageServer: loaded 1 commands(s)
+RageServer: loading remote events.. found 7 remote event(s)
+RageServer: loaded 7 remote event(s)
+-> Resource RageServer started!
+Started! Waiting for connections..

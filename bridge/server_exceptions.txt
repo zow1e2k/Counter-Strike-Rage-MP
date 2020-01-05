@@ -1,0 +1,1753 @@
+
+==================[30.07.2019 1:35:41]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'H:\RageServer\bridge\resources\RageServer\Server.dll'. Не удается найти указанный файл.
+File name: 'H:\RageServer\bridge\resources\RageServer\Server.dll'
+   at void System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, string ilPath, string niPath, ObjectHandleOnStack retAssembly)
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(string assemblyPath)
+
+
+=========================================================
+
+==================[30.07.2019 1:40:52]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[30.07.2019 2:50:13]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[30.07.2019 3:16:39]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[30.07.2019 3:35:54]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[30.07.2019 4:13:26]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[30.07.2019 15:58:31]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[30.07.2019 16:19:34]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[30.07.2019 16:49:56]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[30.07.2019 17:03:33]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[30.07.2019 17:13:12]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[30.07.2019 18:13:28]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[30.07.2019 18:21:40]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[30.07.2019 19:38:56]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[30.07.2019 19:45:20]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[30.07.2019 21:43:23]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[30.07.2019 22:00:47]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[30.07.2019 22:08:54]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[30.07.2019 22:18:13]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[30.07.2019 22:27:05]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[30.07.2019 23:20:21]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 0:14:46]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 0:52:09]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 0:56:44]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Linq.Expressions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 0:58:28]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 0:59:34]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 1:00:23]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Linq.Expressions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 1:21:14]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 1:26:14]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Linq.Expressions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 1:54:05]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 1:59:21]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Linq.Expressions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 2:02:00]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 2:06:52]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Linq.Expressions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 2:12:52]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 2:18:03]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Linq.Expressions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 3:47:30]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 3:52:06]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Linq.Expressions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 4:43:33]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 4:49:31]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Linq.Expressions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 4:53:44]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 5:04:09]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 5:05:23]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Linq.Expressions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 5:12:25]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 5:17:14]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Linq.Expressions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 5:36:20]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 5:41:07]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Linq.Expressions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 5:43:05]==================
+System.Reflection.TargetParameterCountException: Parameter count mismatch.
+   at object[] System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[31.07.2019 19:56:12]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 20:17:13]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Linq.Expressions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 20:35:08]==================
+System.Reflection.TargetParameterCountException: Parameter count mismatch.
+   at object[] System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[31.07.2019 20:47:21]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 20:47:22]==================
+System.Reflection.TargetParameterCountException: Parameter count mismatch.
+   at object[] System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[31.07.2019 20:48:03]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 20:48:04]==================
+System.Reflection.TargetParameterCountException: Parameter count mismatch.
+   at object[] System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[31.07.2019 20:48:12]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 20:48:12]==================
+System.Reflection.TargetParameterCountException: Parameter count mismatch.
+   at object[] System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[31.07.2019 20:48:46]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 20:48:46]==================
+System.Reflection.TargetParameterCountException: Parameter count mismatch.
+   at object[] System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[31.07.2019 20:49:13]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 20:49:13]==================
+System.Reflection.TargetParameterCountException: Parameter count mismatch.
+   at object[] System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[31.07.2019 20:49:33]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 20:49:34]==================
+System.Reflection.TargetParameterCountException: Parameter count mismatch.
+   at object[] System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[31.07.2019 20:49:51]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 20:49:51]==================
+System.Reflection.TargetParameterCountException: Parameter count mismatch.
+   at object[] System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[31.07.2019 20:51:49]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 20:51:49]==================
+System.Reflection.TargetParameterCountException: Parameter count mismatch.
+   at object[] System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[31.07.2019 20:52:13]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 20:52:31]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 20:53:09]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 20:53:09]==================
+System.Reflection.TargetParameterCountException: Parameter count mismatch.
+   at object[] System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[31.07.2019 20:53:25]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 20:53:25]==================
+System.Reflection.TargetParameterCountException: Parameter count mismatch.
+   at object[] System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[31.07.2019 20:53:51]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 20:53:52]==================
+System.Reflection.TargetParameterCountException: Parameter count mismatch.
+   at object[] System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[31.07.2019 20:55:18]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 20:55:42]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 20:55:43]==================
+System.Reflection.TargetParameterCountException: Parameter count mismatch.
+   at object[] System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[31.07.2019 20:57:03]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 21:02:54]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 21:03:41]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 21:04:24]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 21:05:37]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 21:06:21]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 21:06:49]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 21:17:51]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 21:18:21]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 21:18:46]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 21:19:13]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 21:34:46]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 21:35:00]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 22:02:58]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 22:10:03]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Linq.Expressions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 22:12:39]==================
+System.Reflection.TargetParameterCountException: Parameter count mismatch.
+   at object[] System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[31.07.2019 22:13:34]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 22:19:03]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Linq.Expressions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 22:31:06]==================
+System.Reflection.TargetParameterCountException: Parameter count mismatch.
+   at object[] System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[31.07.2019 23:43:22]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[31.07.2019 23:53:14]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Linq.Expressions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 0:07:43]==================
+System.Reflection.TargetParameterCountException: Parameter count mismatch.
+   at object[] System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[01.08.2019 0:23:42]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 0:28:27]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Linq.Expressions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 0:31:08]==================
+System.Reflection.TargetParameterCountException: Parameter count mismatch.
+   at object[] System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[01.08.2019 1:04:35]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 1:12:07]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 1:19:07]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Linq.Expressions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 1:25:40]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 1:30:13]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Linq.Expressions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 1:51:50]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 1:57:33]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 1:57:59]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Linq.Expressions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 1:58:46]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 1:59:50]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 2:05:14]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 2:09:00]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 2:09:19]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Linq.Expressions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 2:10:55]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 2:11:14]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Linq.Expressions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 2:14:26]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 2:14:45]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Linq.Expressions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 2:17:00]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 2:17:36]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Linq.Expressions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 2:19:00]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 2:21:51]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 2:23:53]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 2:26:31]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 2:28:00]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 2:30:04]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 2:31:20]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 2:32:43]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 2:33:26]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 2:33:43]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 4:08:13]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 4:14:53]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 4:19:43]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Linq.Expressions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 4:38:28]==================
+System.Reflection.TargetParameterCountException: Parameter count mismatch.
+   at object[] System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[01.08.2019 20:04:08]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 20:17:18]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 20:19:23]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 20:20:22]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 20:21:40]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Linq.Expressions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 20:34:10]==================
+System.Reflection.TargetParameterCountException: Parameter count mismatch.
+   at object[] System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[01.08.2019 22:21:33]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 22:29:36]==================
+System.Reflection.TargetParameterCountException: Parameter count mismatch.
+   at object[] System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[01.08.2019 22:31:55]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 22:43:07]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 23:01:29]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 23:13:58]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Linq.Expressions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 23:15:56]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 23:16:16]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Linq.Expressions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 23:19:04]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.08.2019 23:19:58]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Linq.Expressions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[02.08.2019 0:05:17]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[02.08.2019 0:06:26]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Linq.Expressions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[02.08.2019 0:28:07]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[02.08.2019 0:39:38]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Linq.Expressions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[02.08.2019 0:42:00]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[02.08.2019 0:54:20]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[02.08.2019 0:59:26]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[02.08.2019 0:59:51]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Linq.Expressions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[02.08.2019 1:36:19]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[02.08.2019 1:39:00]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[02.08.2019 1:46:41]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[02.08.2019 1:48:49]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[02.08.2019 1:58:54]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[02.08.2019 2:01:52]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[02.08.2019 2:03:01]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[02.08.2019 2:04:30]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[02.08.2019 2:06:24]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[02.08.2019 2:07:27]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[02.08.2019 2:08:34]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[02.08.2019 2:10:06]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[02.08.2019 2:14:33]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[02.08.2019 2:15:39]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[02.08.2019 2:18:08]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[02.08.2019 2:19:42]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[02.08.2019 2:20:45]==================
+System.Reflection.TargetParameterCountException: Parameter count mismatch.
+   at object[] System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[04.08.2019 21:45:16]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[04.08.2019 21:46:53]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[04.08.2019 22:00:20]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[04.08.2019 22:03:38]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[04.08.2019 22:04:45]==================
+System.Reflection.TargetParameterCountException: Parameter count mismatch.
+   at object[] System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[06.08.2019 4:38:44]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[06.08.2019 4:55:43]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Linq.Expressions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[06.08.2019 5:02:37]==================
+System.Reflection.TargetParameterCountException: Parameter count mismatch.
+   at object[] System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[06.08.2019 5:31:32]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[06.08.2019 5:39:17]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime.Extensions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[06.08.2019 5:40:23]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Linq.Expressions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[06.08.2019 5:41:03]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[06.08.2019 5:41:17]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime.Extensions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[06.08.2019 5:41:37]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Linq.Expressions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[06.08.2019 6:58:23]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[06.08.2019 7:07:13]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime.Extensions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[06.08.2019 7:07:57]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Linq.Expressions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[06.08.2019 7:07:57]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.CSharp.resources'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[06.08.2019 7:07:57]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.CSharp.resources'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[06.08.2019 7:07:57]==================
+Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot convert null to 'bool' because it is a non-nullable value type
+   at void Microsoft.CSharp.RuntimeBinder.RuntimeBinderController.SubmitError(CError pError)
+=========================================================
+
+==================[06.08.2019 7:07:57]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[06.08.2019 7:07:57]==================
+Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot convert null to 'bool' because it is a non-nullable value type
+   at bool CallSite.Target(Closure, CallSite, object)
+=========================================================
+
+==================[06.08.2019 7:07:58]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[06.08.2019 7:07:58]==================
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot convert null to 'bool' because it is a non-nullable value type
+   at bool CallSite.Target(Closure, CallSite, object)
+   at TRet System.Dynamic.UpdateDelegates.UpdateAndExecute1<T0, TRet>(CallSite site, T0 arg0)
+   at void RageServer.ServerTest.chatMsg(Client player, string msg) in H:\RageServer\RageServer\ServerSide\ServerTest.cs:line 108
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor)
+   at object System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(object obj, object[] parameters, object[] arguments)
+=========================================================
+
+==================[06.08.2019 7:08:17]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[06.08.2019 7:08:31]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime.Extensions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[06.08.2019 7:08:38]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Linq.Expressions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[06.08.2019 7:08:38]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.CSharp.resources'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[06.08.2019 7:08:38]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.CSharp.resources'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[06.08.2019 7:08:38]==================
+Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot convert null to 'bool' because it is a non-nullable value type
+   at void Microsoft.CSharp.RuntimeBinder.RuntimeBinderController.SubmitError(CError pError)
+=========================================================
+
+==================[06.08.2019 7:08:38]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[06.08.2019 7:08:38]==================
+Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot convert null to 'bool' because it is a non-nullable value type
+   at bool CallSite.Target(Closure, CallSite, object)
+=========================================================
+
+==================[06.08.2019 7:08:38]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[06.08.2019 7:08:38]==================
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot convert null to 'bool' because it is a non-nullable value type
+   at bool CallSite.Target(Closure, CallSite, object)
+   at TRet System.Dynamic.UpdateDelegates.UpdateAndExecute1<T0, TRet>(CallSite site, T0 arg0)
+   at void RageServer.ServerTest.chatMsg(Client player, string msg) in H:\RageServer\RageServer\ServerSide\ServerTest.cs:line 108
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor)
+   at object System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(object obj, object[] parameters, object[] arguments)
+=========================================================
+
+==================[06.08.2019 7:08:57]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[06.08.2019 7:11:02]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[06.08.2019 7:11:14]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime.Extensions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[06.08.2019 7:11:21]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Linq.Expressions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[06.08.2019 7:11:21]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.CSharp.resources'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[06.08.2019 7:11:21]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.CSharp.resources'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[06.08.2019 7:11:21]==================
+Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot convert null to 'bool' because it is a non-nullable value type
+   at void Microsoft.CSharp.RuntimeBinder.RuntimeBinderController.SubmitError(CError pError)
+=========================================================
+
+==================[06.08.2019 7:11:21]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[06.08.2019 7:11:21]==================
+Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot convert null to 'bool' because it is a non-nullable value type
+   at bool CallSite.Target(Closure, CallSite, object)
+=========================================================
+
+==================[06.08.2019 7:11:21]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[06.08.2019 7:11:22]==================
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot convert null to 'bool' because it is a non-nullable value type
+   at bool CallSite.Target(Closure, CallSite, object)
+   at TRet System.Dynamic.UpdateDelegates.UpdateAndExecute1<T0, TRet>(CallSite site, T0 arg0)
+   at void RageServer.ServerTest.chatMsg(Client player, string msg) in H:\RageServer\RageServer\ServerSide\ServerTest.cs:line 108
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor)
+   at object System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(object obj, object[] parameters, object[] arguments)
+=========================================================
+
+==================[06.08.2019 7:12:09]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[06.08.2019 7:12:21]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime.Extensions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[06.08.2019 7:13:49]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[06.08.2019 7:14:00]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime.Extensions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[06.08.2019 7:19:11]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[06.08.2019 7:19:26]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime.Extensions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[06.08.2019 7:22:30]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[06.08.2019 7:22:41]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime.Extensions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[06.08.2019 7:26:15]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[06.08.2019 7:26:29]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime.Extensions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[06.08.2019 7:29:43]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[06.08.2019 7:29:57]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime.Extensions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[06.08.2019 7:34:38]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[06.08.2019 7:34:52]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime.Extensions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[06.08.2019 7:34:57]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Linq.Expressions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[06.08.2019 7:42:29]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[06.08.2019 7:42:41]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime.Extensions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[06.08.2019 7:45:12]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[06.08.2019 7:45:37]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime.Extensions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[11.08.2019 23:32:28]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[12.08.2019 0:52:16]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime.Extensions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[12.08.2019 0:55:08]==================
+System.Reflection.TargetParameterCountException: Parameter count mismatch.
+   at object[] System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[12.08.2019 1:34:26]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[12.08.2019 1:34:56]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime.Extensions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[12.08.2019 1:35:56]==================
+System.Reflection.TargetParameterCountException: Parameter count mismatch.
+   at object[] System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[24.08.2019 15:39:08]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[24.08.2019 15:43:15]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[24.08.2019 15:46:35]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[24.08.2019 15:47:53]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime.Extensions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[24.08.2019 15:49:12]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[24.08.2019 15:59:10]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime.Extensions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[24.08.2019 16:01:21]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Linq.Expressions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[24.08.2019 16:03:35]==================
+System.Reflection.TargetParameterCountException: Parameter count mismatch.
+   at object[] System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[24.08.2019 16:04:33]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[06.09.2019 18:29:23]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[06.09.2019 18:33:38]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime.Extensions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[06.09.2019 18:34:16]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Linq.Expressions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[06.09.2019 18:35:40]==================
+System.Reflection.TargetParameterCountException: Parameter count mismatch.
+   at object[] System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[13.09.2019 18:51:21]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[13.09.2019 18:54:31]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime.Extensions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[13.09.2019 18:55:14]==================
+System.Reflection.TargetParameterCountException: Parameter count mismatch.
+   at object[] System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[21.09.2019 14:48:09]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[21.09.2019 14:52:38]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime.Extensions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[21.09.2019 14:55:15]==================
+System.Reflection.TargetParameterCountException: Parameter count mismatch.
+   at object[] System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[21.09.2019 14:57:37]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[21.09.2019 14:58:07]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime.Extensions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[21.09.2019 15:03:51]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Linq.Expressions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[22.09.2019 12:37:57]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[22.09.2019 12:42:45]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime.Extensions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[22.09.2019 12:44:50]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Linq.Expressions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[22.09.2019 13:06:34]==================
+System.Reflection.TargetParameterCountException: Parameter count mismatch.
+   at object[] System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[22.09.2019 13:08:42]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[22.09.2019 13:09:14]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime.Extensions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[22.09.2019 13:10:22]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[22.09.2019 13:10:41]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime.Extensions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[22.09.2019 13:11:42]==================
+System.Reflection.TargetParameterCountException: Parameter count mismatch.
+   at object[] System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[22.09.2019 13:13:24]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[22.09.2019 13:13:36]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Linq.Expressions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[22.09.2019 13:13:36]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.CSharp.resources'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[22.09.2019 13:13:36]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.CSharp.resources'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[22.09.2019 13:13:36]==================
+Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot convert null to 'bool' because it is a non-nullable value type
+   at void Microsoft.CSharp.RuntimeBinder.RuntimeBinderController.SubmitError(CError pError)
+=========================================================
+
+==================[22.09.2019 13:13:36]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[22.09.2019 13:13:36]==================
+Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot convert null to 'bool' because it is a non-nullable value type
+   at bool CallSite.Target(Closure, CallSite, object)
+=========================================================
+
+==================[22.09.2019 13:13:36]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[22.09.2019 13:13:36]==================
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot convert null to 'bool' because it is a non-nullable value type
+   at bool CallSite.Target(Closure, CallSite, object)
+   at TRet System.Dynamic.UpdateDelegates.UpdateAndExecute1<T0, TRet>(CallSite site, T0 arg0)
+   at void RageServer.ServerTest.chatMsg(Client player, string msg) in H:\RageServer\RageServer\ServerSide\ServerTest.cs:line 108
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor)
+   at object System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(object obj, object[] parameters, object[] arguments)
+=========================================================
+
+==================[22.09.2019 13:13:41]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[22.09.2019 13:19:11]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[22.09.2019 13:38:41]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[22.09.2019 13:59:14]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[22.09.2019 14:13:24]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[22.09.2019 14:13:43]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[22.09.2019 14:17:34]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[22.09.2019 14:18:02]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime.Extensions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[22.09.2019 14:23:17]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[22.09.2019 14:26:55]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime.Extensions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[05.01.2020 19:31:34]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================

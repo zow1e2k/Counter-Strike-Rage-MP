@@ -1,0 +1,10 @@
+{
+	"maxplayers" : 32,
+	"name" : "Counter-Strike: Rage Offensive", 
+	"gamemode" : "CS:RG", 
+	"stream-distance" : 300.0,
+	"announce" : false,
+	"csharp" : "enabled",
+	"port": 22005,
+	"sync-rate": 64
+}
